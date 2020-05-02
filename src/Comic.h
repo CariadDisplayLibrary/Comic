@@ -1,7 +1,7 @@
 #ifndef _COMIC_H
 #define _COMIC_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t Comic[];

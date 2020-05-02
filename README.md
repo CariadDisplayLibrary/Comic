@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::Comic 
 
-![Comic](https://raw.githubusercontent.com/DisplayCore/Comic/master/Preview/Comic.png)
+![Comic](https://raw.githubusercontent.com/Cariad/Comic/master/Preview/Comic.png)
 
